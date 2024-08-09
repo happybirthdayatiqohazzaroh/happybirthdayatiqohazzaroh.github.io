@@ -1,0 +1,16 @@
+body {
+    background-color: lightslategray;
+}
+
+
+h1 {
+    color: white
+
+}
+div {
+    color: white;
+    background-color: skyblue;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: lightslategray;
+}
+h1 {
+    background-color: skyblue;
+    border-radius: 5px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-content: center;   
+}
+img {
+    width: 400px;
+}
+pre {
+    text-align: center;
+    font-family: "Roboto", sans-serif:
+    font-size: 20px;
+
+}
+footer {
+    text-align: center;
+    color: white;
+}
+.audio {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
